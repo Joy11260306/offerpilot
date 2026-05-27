@@ -45,3 +45,13 @@ next-env.d.ts
 
 # project workspace data
 .codebuddy/
+
+# OpenNext
+.open-next
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+
+!.env.example
